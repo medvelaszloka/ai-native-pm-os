@@ -38,7 +38,7 @@ When I ask about:
 ### Automation Behavior
 - When generating daily dashboards: Prioritize actionable items
 - When synthesizing intelligence: Group by themes, show evidence counts
-- When suggesting bets: Include appetite estimate (2-week, 6-week)
+- When suggesting bets: Include appetite estimate in weeks of full team capacity
 - Always flag information gaps that need investigation
 
 ### Working with Files
