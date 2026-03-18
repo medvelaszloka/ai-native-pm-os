@@ -1,0 +1,234 @@
+# Weekly Synthesis - Week {{date:WW}}, {{date:YYYY}}
+
+**Period:** {{date:YYYY-MM-DD}} to [End date]
+**Generated:** {{date:YYYY-MM-DD HH:mm}}
+
+---
+
+## 📊 Executive Summary
+
+**This week in signals:**
+- Total Slack intelligence collected: X days
+- Unique themes identified: X
+- High-confidence bet candidates: X
+- Emerging patterns: X
+
+**Key insight:**
+[One sentence: What's the most important thing to know from this week?]
+
+---
+
+## 🎯 High-Confidence Bet Candidates
+
+### BET-XXX: [Title]
+**Appetite:** 6 weeks | 2 weeks
+**Confidence:** High | Medium | Low
+
+**Problem:**
+[One paragraph: What problem does this solve?]
+
+**Evidence collected this week:**
+- [Signal 1] - [[Link to intelligence file]]
+- [Signal 2] - [[Link to intelligence file]]
+- [Signal 3] - [[Link to intelligence file]]
+
+**Evidence strength:**
+- Customer mentions: X
+- Stakeholder endorsements: X
+- Data supporting: [Yes/No]
+
+**Proposed pitch:**
+[2-3 sentences in Shape Up format]
+
+**What makes this bet-worthy:**
+[Why this is ready to propose]
+
+**Information gaps:**
+- [ ] [What we still need to know]
+
+**Next steps:**
+1. [Action item]
+2. [Action item]
+
+**Draft bet:** [[Link to bet candidate file]]
+
+---
+
+### BET-XXX: [Title]
+[Repeat structure above]
+
+---
+
+## 🌱 Emerging Patterns (Not Yet Bet-Worthy)
+
+### Pattern: [Theme Name]
+**Mentions this week:** X
+**Trend:** ↗️ Increasing | → Stable | ↘️ Decreasing
+**First appeared:** [Date or "This week"]
+
+**Evidence:**
+- [Mention 1] - [[Link]]
+- [Mention 2] - [[Link]]
+
+**Why not bet-worthy yet:**
+[What's missing: more validation, stakeholder buy-in, technical feasibility, etc.]
+
+**What would make it bet-worthy:**
+- [ ] [Condition 1]
+- [ ] [Condition 2]
+
+**Keep watching:** Yes | No
+
+---
+
+## 📈 Pattern Analysis
+
+### Top Themes This Week
+1. **[Theme 1]** - X mentions
+   - Related bets: [[Link if applicable]]
+   - Trend: [Direction]
+
+2. **[Theme 2]** - X mentions
+   - Related bets: [[Link if applicable]]
+   - Trend: [Direction]
+
+3. **[Theme 3]** - X mentions
+   - Related bets: [[Link if applicable]]
+   - Trend: [Direction]
+
+### Comparison to Last Week
+| Theme | Last Week | This Week | Change |
+|-------|-----------|-----------|--------|
+| [Theme A] | X | X | +/- X |
+| [Theme B] | X | X | +/- X |
+
+### Long-term Patterns (4+ weeks)
+- **[Pattern name]:** Consistently mentioned for X weeks
+  - Status: [Growing/Stable/Declining]
+  - Recommendation: [Consider for bet/Keep monitoring/Deprioritize]
+
+---
+
+## 🎭 By Stakeholder
+
+### Customer Success Team
+**Key themes they raised:**
+- [Theme 1] - X mentions
+- [Theme 2] - X mentions
+
+**Most urgent:** [What they need most]
+
+### Engineering Team
+**Technical discussions:**
+- [Topic 1] - X mentions
+- [Topic 2] - X mentions
+
+**Blockers/concerns:** [Any technical constraints mentioned]
+
+### Design Team
+**Design feedback/requests:**
+- [Topic 1] - X mentions
+
+### Leadership/Stakeholders
+**Strategic priorities mentioned:**
+- [Priority 1]
+- [Priority 2]
+
+**Decisions made:** [Any key decisions this week]
+
+---
+
+## ❓ Questions Requiring Resolution
+
+### High Priority
+- [ ] **[Question]**
+  - Why it matters: [Context]
+  - Who can answer: [Name/team]
+  - Blocks: [Which bet/decision]
+  - Asked: [[Link to Slack thread]]
+
+### Medium Priority
+- [ ] **[Question]**
+  - Why it matters: [Context]
+  - Who can answer: [Name/team]
+
+---
+
+## 🚧 Blockers & Concerns
+
+**Raised this week:**
+- **[Blocker/concern]**
+  - Impact: [What's affected]
+  - Source: [Who raised it + link]
+  - Resolution needed: [What needs to happen]
+
+---
+
+## 💡 Notable Ideas
+
+*Ideas that came up but aren't fully formed yet*
+
+- **[Idea]** - From [person] in [[link]]
+  - Potential: [Why it's interesting]
+  - Needs: [What would move this forward]
+
+---
+
+## 📅 Weekly Intelligence Files
+
+**Slack intelligence collected:**
+- [[Monday]]
+- [[Tuesday]]
+- [[Wednesday]]
+- [[Thursday]]
+- [[Friday]]
+
+**Meeting notes:**
+- [[Link to any meeting notes]]
+
+---
+
+## 🎬 Recommended Actions
+
+### This Week (Before Next Synthesis)
+1. [ ] **Review high-confidence bets** - Decide which to propose
+2. [ ] **Resolve high-priority questions** - Unblock bet decisions
+3. [ ] **Validate emerging pattern X** - Gather more evidence
+
+### Next Cycle Planning
+- [ ] **Propose BET-XXX** - Ready for team review
+- [ ] **Deep dive on [topic]** - Needs more investigation before betting
+
+### Communication
+- [ ] **Update stakeholder Y** - About [decision/progress]
+- [ ] **Share synthesis** - With [team/person]
+
+---
+
+## 🔮 Looking Ahead
+
+**What to watch next week:**
+- [Pattern to monitor]
+- [Upcoming decision/event]
+- [Potential new signal sources]
+
+**Questions to explore:**
+- [Area needing more investigation]
+
+---
+
+## 📊 Metrics
+
+**Intelligence velocity:**
+- Slack signals per day: [Average]
+- Themes per week: X
+- Bet candidates per month: X
+
+**Quality indicators:**
+- Bet acceptance rate: X%
+- Time from signal to bet: X days
+
+---
+
+*Generated by Claude Code*
+*Next synthesis: [Date]*
